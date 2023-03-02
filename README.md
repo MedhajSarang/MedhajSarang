@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MedhajSarang
 - 👀 I’m a big-time cycling enhusiast and love playing Badminton
-- 🌱 I’m currently learning C++ along with Java. Exploring the domains of Web Dev alongside
+- 🌱 I have learned programming in C, C++ and Java. Getting ahead with Python... 
+- 🌱 Exploring the domains of Web Dev. 
 - 📫 Reach me on my Instagram [@medhaj_s](https://www.instagram.com/medhaj_s/?hl=en)
 - 📫 My LinkedIn [Medhaj Sarang](https://www.linkedin.com/in/view-medhaj-sarang/)
 
